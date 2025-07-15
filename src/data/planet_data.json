@@ -1,0 +1,26 @@
+{
+  "Mercury": {
+    "name": "Mercury",
+    "radius": 2439700.0,
+    "orbital_period": 0.0,
+    "mu": 2.2032e13,
+    "soi": 5.79e10,
+    "orbital_radius": 0.0
+  },
+  "Earth": {
+    "name": "Earth",
+    "radius": 2439700.0,
+    "orbital_period": 0.0,
+    "mu": 2.2032e13,
+    "soi": 5.79e10,
+    "orbital_radius": 0.0
+  },
+  "Mars": {
+    "name": "Mars",
+   "radius": 2439700.0,
+    "orbital_period": 0.0,
+    "mu": 2.2032e13,
+    "soi": 5.79e10,
+    "orbital_radius": 0.0
+  }
+}
