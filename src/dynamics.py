@@ -71,3 +71,4 @@ class Orbits:
         FF[5] = -MU * Y[2] / (r) - self.mu_B * ((Y[2] - R[2])/radius + R[2]/RADIO)
         return FF
 
+ 
